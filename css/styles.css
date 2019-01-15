@@ -1,24 +1,149 @@
-.green-background {
-  background-color: green;
-}
-
-.yellow-background {
-  background-color: yellow;
-
-}
-
-.red-background {
-  background-color: red;
-}
 
 body {
   text-align: center;
 }
 
-.Red-text {
-  color: Red;
+.op-hide {
+  display: none;
+  color: white;
+}
+.op-hide2 {
+  display: none;
+  color: white;
+}
+.op-hide3 {
+  display: none;
+  color: white;
+}
+.op-hide4 {
+  display: none;
+  color: white;
+}
+.op-hide5 {
+  display: none;
+  color: white;
+}
+.op-hide6 {
+  display: none;
+  color: white;
+}
+.op-hide7 {
+  display: none;
+  color: white;
+  border: dotted white;
+}
+.op-hide8 {
+  display: none;
+  color: white;
+  border: dotted white;
+}
+.op-hide9 {
+  display: none;
+  color: white;
+  border: dotted white;
+}
+.op-hide10 {
+  display: none;
+  color: white;
+  border: dotted red;
+}
+.op-hide11 {
+  display: none;
+  color: white;
+  border: dotted red;
+}
+.op-hide12 {
+  display: none;
+  color: white;
+  border: dotted red;
+}
+.op-hide13 {
+  display: none;
+  color: white;
+}
+.op-hide14 {
+  display: none;
+  color: white;
+}
+.op-hide15 {
+  display: none;
+  color: white;
+}
+.op-hide16 {
+  display: none;
+  color: white;
+}
+.op-hide17 {
+  display: none;
+  color: white;
+}
+.op-hide18 {
+  display: none;
+  color: white;
+}
+.op-hide19 {
+  display: none;
+  color: white;
 }
 
-.green-text {
-  color: green;
+div {
+  background-color: rgba(0,0,0,0.12);
+}
+
+.container {
+  width: 1000px;
+}
+
+.group1 {
+  background-color: rgba(100,50,200,0.45);
+  padding-top: 35px;
+  padding-bottom: 35px;
+  width: auto;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.group2 {
+  background-color: rgba(100,50,200,0.75);
+  padding-top: 35px;
+  padding-bottom: 35px;
+  width: auto;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.group3 {
+  background-color: rgba(100,50,200,0.95);
+  padding-top: 35px;
+  padding-bottom: 35px;
+  width: auto;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.group4 {
+  background-color: rgba(10,50,200,0.95);
+  padding-top: 35px;
+  padding-bottom: 35px;
+  width: auto;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.group5 {
+  background-color: rgba(10,50,200,0.75);
+  padding-top: 35px;
+  padding-bottom: 35px;
+  width: auto;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.group6 {
+  background-color: rgba(10,50,200,0.45);
+  padding-top: 35px;
+  padding-bottom: 35px;
+  width: auto;
+  margin-left: 150px;
+  margin-right: 150px;
 }
